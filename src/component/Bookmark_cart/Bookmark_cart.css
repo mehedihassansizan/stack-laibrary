@@ -1,0 +1,22 @@
+.spent-time{
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    background: rgba(96, 71, 236, 0.10);
+    min-width: 270px;
+    height: 80px;
+    text-align: center;
+    color: #6047EC;
+    font-weight: 700;
+    padding-top: 10px;
+}
+.cart{
+    margin-top: 30px;
+    padding: 20px;
+    min-width: 330px;
+    min-height: 1352px;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+}
+.cart-tittle{
+
+}

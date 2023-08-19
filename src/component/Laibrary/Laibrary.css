@@ -1,0 +1,12 @@
+.laibrary-container{
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.blog-container{
+    grid-column: span 1;
+}
+.bookmark-container{
+    margin-left: 40px;
+    margin-top: 60px;
+}
