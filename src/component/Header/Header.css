@@ -1,0 +1,51 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.nav{
+    margin-right: 30px;
+}
+.nav a{
+    padding-right: 20px;
+    text-decoration: none;
+}
+.nav a:hover{
+    color: blue;
+}
+
+
+@media (width <= 700px) {
+    .brand-name{
+        font-size: 10px;
+    }
+    .nav-img img{
+        max-width: 30px;
+        max-height: 30px;
+    }
+    .nav a{
+        font-size: 10px;
+    }
+}
+
+@media (width <= 500px) {
+    .nav a{
+        font-size: 10px;
+        padding-right: 10px;
+    }
+    .nav{
+        margin-right: 10px;
+    }
+}
+
+@media (width <= 400px) {
+    .header-container{
+        margin: 20px;
+    }
+}
