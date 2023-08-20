@@ -18,5 +18,10 @@
     background: rgba(17, 17, 17, 0.05);
 }
 .cart-tittle{
-
+    font-size: 30px;
+    text-align: center;
+}
+.add-cart h1{
+    font-size: 20px;
+    padding: 10px;
 }

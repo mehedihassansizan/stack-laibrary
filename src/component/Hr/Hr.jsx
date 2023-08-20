@@ -3,7 +3,7 @@ import React from 'react';
 import './Hr.css'
 const Hr = () => {
     return (
-        <div>
+        <div className='hr-div'>
             <hr/>
         </div>
     );

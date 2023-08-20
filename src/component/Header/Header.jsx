@@ -17,6 +17,7 @@ const Header = () => {
                     <img src="/src/img/Ellipse 1.png" alt="" />
                 </div>
             </div>
+            <hr/>
         </div>
     );
 };

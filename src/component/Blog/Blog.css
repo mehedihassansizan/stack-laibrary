@@ -62,3 +62,6 @@
     width: 845px;
     border: none;
 }
+.icon{
+    cursor: pointer;
+}
