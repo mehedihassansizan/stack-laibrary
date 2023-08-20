@@ -60,7 +60,10 @@
 .blog-hr{
     background: rgba(17, 17, 17, 0.10);;
     width: 845px;
-    border: none;
+    margin-top: 20px;
+    height: 1px;
+    background: rgba(17, 17, 17, 0.15);
+    border: none
 }
 .icon{
     cursor: pointer;

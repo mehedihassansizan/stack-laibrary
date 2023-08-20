@@ -1,6 +1,7 @@
-hr{
+.com-hr hr{
     margin-top: 20px;
     height: 1px;
+    min-width: 1240px;
     background: rgba(17, 17, 17, 0.15);
     border: none;   
 }

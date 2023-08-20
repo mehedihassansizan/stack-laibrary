@@ -14,7 +14,7 @@ const Header = () => {
                     <a href="">Login</a>
                 </div>
                 <div className='nav-img'>
-                    <img src="/src/img/Ellipse 1.png" alt="" />
+                    <img src="/public/Ellipse-1.png" alt="" />
                 </div>
             </div>
             <hr/>
